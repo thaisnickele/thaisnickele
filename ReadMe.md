@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou a Thais Nickele! <br><br>💻 Sou estudante de programação;<br><br><br><br>
+Olá, sou Thaís Nickele, uma estudante apaixonada por programação, atualmente cursando o terceiro semestre da faculdade. Estou em busca do meu primeiro estágio para aplicar e expandir meus conhecimentos no campo da tecnologia. Tenho um espírito dedicado, adoro desafios e estou ansiosa para contribuir em projetos inovadores. Estou pronta para mergulhar no fascinante mundo da programação e agregar valor onde quer que eu vá!
 
 
 ## 🌐 Socials:
